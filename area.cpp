@@ -1,3 +1,4 @@
+#This is new insertion in code
 #include<iostream>
 using namespace std;
 
@@ -16,5 +17,5 @@ int main()
  cin>>width;
  area=calcarea(length,width);
  cout<<"\nThe area of the rectangle is "<<area<<endl;
- return 0;
+ return 1;
 }  
